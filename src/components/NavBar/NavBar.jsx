@@ -18,7 +18,7 @@ const NavBar = ({cartCount}) => {
                                 width="100"
                                 height="100"
                                 className="d-inline-block align-top"
-                                alt="Gino Luciano Rojo Logo"
+                                alt=""
                             />
                         </Navbar.Brand>
                     </Link>
